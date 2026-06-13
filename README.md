@@ -69,12 +69,6 @@ RAZORPAY_KEY_SECRET=your_secret
 npm run seed --prefix server
 ```
 
-Demo admin:
-
-```text
-admin@bartanbazaar.in
-Admin@123
-```
 
 5. Run the app:
 
